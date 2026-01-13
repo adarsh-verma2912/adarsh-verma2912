@@ -73,7 +73,7 @@
   </tr>
 
   <tr>
-    <td>⭐ <a href="https://github.com/adarsh-verma2912/DSA_Interveiw_Prepration.git"><b>DSA_Interveiw_Prepration</b></a></td>
+    <td>⭐ <a href="http://github.com/adarsh-verma2912/https-github.com-adarsh-verma2912-DSA_Interveiw_Prepration"><b>DSA_Interveiw_Prepration</b></a></td>
     <td align="center">DSA / LeetCode Daily</td>
   </tr>
 
