@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/adarsh-kumar-verma-a67071338" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/adarsh-verma2912/adarsh-verma2912/new/main?readme=1" target="_blank">
+  <a href="https://github.com/adarsh-verma2912" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/adarshverma2003/" target="_blank">
@@ -50,7 +50,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=student-nirajkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=adarsh-verma2912&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=student-nirajkumar&theme=dark&hide_border=false)
 
